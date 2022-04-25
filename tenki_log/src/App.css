@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #aaf;
+  padding: 10px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+span.filter {
+  border: solid 1px;
+  padding: 2px;
+}
+
+div.filter_div {
+  text-align: left;
+  padding: 0 0 0 10px;
+}
+
+.filterSet {
+  width: 50%;
+}
+
+ul {
+  text-align: left;
+  padding: 0 5px;
+}
+
+li {
+  list-style: none;
+}
+
+div.duplicate {
+/* display: none; */
+  color: #11f;
+}
+
+div.modalContentWrap {
+  background: #aee;
+  margin: 90px 0 0 0;
+}
+div.modalContent {
+  background: #eee;
+}
+div.selectSpec {
+  padding: 0 20px;
+}
+div.selectSpecHF {
+  display: table-cell;
+  padding: 10px 20px;
+}
+div.selectSpecLF {
+  display: table-cell;
+  padding: 10px 20px;
+}
+div.modalHeader {
+  position: fixed;
+  background: #cfc;
+  text-align: center;
+  width: 90%;
+}
+
+div.modalHeader button {
+  border: solid 1px;
+  float: left;
+}
